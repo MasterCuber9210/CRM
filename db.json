@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alejandro",
+      "email": "alejo921017@gmail.com",
+      "telefono": "3124291650",
+      "empresa": "Codigo con Juan",
+      "id": 1
+    },
+    {
+      "nombre": "Alejandro",
+      "email": "alejo921017@gmail.com",
+      "telefono": "3124291650",
+      "empresa": "Master",
+      "id": 2
+    },
+    {
+      "nombre": "Andres",
+      "email": "andres@corrreo.com",
+      "telefono": "10982837012389",
+      "empresa": "Auladig",
+      "id": 3
+    }
+  ]
+}
